@@ -1,7 +1,8 @@
 /* Vista de La URL del Trabajo de Willi */
 
-document.url
+//  https://elpanawilli.github.io/Proyecto-2-cod-latam/
 
+document.url;
 
 /* Trabajando un poco con Console.Log y Alert. */
 

@@ -113,7 +113,7 @@ h1 {
 }
 
 .Saludo {
-    color: #2f9905; 
+    color: #43b318; 
     font-weight: bold;
     transition: 0.9s;
 }
@@ -148,7 +148,7 @@ h2 {
 
 #Botoncv {
     align-items: left;
-    color: #a89595;
+    color: #43b318;
     text-align: center;
 }
 
@@ -157,7 +157,7 @@ button {
     font-weight: 800;
     border-radius: 50px;
     padding: 15px 15px;  
-    background-color:  #7e2929;
+    background-color:  #cabf23;
 }
 
 /* Pie de Pagina */
@@ -186,7 +186,7 @@ button {
 /* Nuevo Agregado de Css al Boton cv */
 
 button:hover {
-    background-color: #a07171;
+    background-color: #441b0e;
     transition: 0.8s;
 }
 
