@@ -1,6 +1,6 @@
 /* Vista de La URL del Trabajo de Willi */
 
-// document.url
+document.url
 
 
 /* Trabajando un poco con Console.Log y Alert. */
